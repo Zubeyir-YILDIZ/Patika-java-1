@@ -1,0 +1,1 @@
+# Girilen-Sayinin-Rakamlari-Toplami-Kodu

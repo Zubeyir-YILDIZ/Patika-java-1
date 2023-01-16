@@ -1,0 +1,1 @@
+# Hava-sicakligine-gore-etkinlik-oneren-kod

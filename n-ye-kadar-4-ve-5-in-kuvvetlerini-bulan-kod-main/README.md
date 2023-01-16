@@ -1,0 +1,1 @@
+# n-ye-kadar-4-ve-5-in-kuvvetlerini-bulan-kod

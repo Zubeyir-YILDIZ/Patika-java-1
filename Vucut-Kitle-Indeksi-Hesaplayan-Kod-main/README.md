@@ -1,0 +1,1 @@
+# Vucut-Kitle-Indeksi-Hesaplayan-Kod
