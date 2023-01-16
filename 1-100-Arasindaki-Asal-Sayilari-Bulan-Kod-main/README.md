@@ -1,0 +1,1 @@
+# 1-100-Arasindaki-Asal-Sayilari-Bulan-Kod

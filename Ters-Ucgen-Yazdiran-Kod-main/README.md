@@ -1,0 +1,1 @@
+# Ters-Ucgen-Yazdiran-Kod

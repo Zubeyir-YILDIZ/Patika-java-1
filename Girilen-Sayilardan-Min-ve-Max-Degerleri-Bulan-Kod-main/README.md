@@ -1,0 +1,1 @@
+# Girilen-Sayilardan-Min-ve-Max-Degerleri-Bulan-Kod
